@@ -13,6 +13,6 @@ public class test_Push : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //zdrasti adka
     }
 }
