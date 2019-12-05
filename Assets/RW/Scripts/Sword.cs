@@ -61,7 +61,7 @@ public class Sword : MonoBehaviour
         Vector3 startPosition = new Vector3(panel.position.x, panel.position.y - slidingDist, panel.position.z);
         Vector3 endPosition = panel.position;//new Vector3(panel.position.x, panel.position.y + slidingDist, panel.position.z);
         */
-        int slidingDist = 10;
+        int slidingDist = 20;
         Vector3 startPosition = new Vector3(panel.position.x, panel.position.y + slidingDist, panel.position.z);
         Vector3 endPosition = panel.position;//new Vector3(panel.position.x, panel.position.y + slidingDist, panel.position.z);
         
